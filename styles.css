@@ -532,15 +532,5 @@ div.footer h6 {
    body .hero-content-heading h3 {
        text-align: center;
    }
-
-   body .hero-content-heading p {
-    width: 150%;
-    margin-left: auto;
-    font-size: 75%;
-    text-align: justify;
-    line-height: 140%;
-}
-
-
 }
 
